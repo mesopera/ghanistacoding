@@ -1,4 +1,11 @@
 //enter talking points which may be usefull to add context or elaborate on a topic
-1.
+1. Benifits of blockchain (future scope in India) :
+- India's Cross-Border Remittance Market: As the largest receiver in this market, India could benefit greatly from adopting blockchain technology.
+- High Costs in Current Systems: Current remittance fees are high due to the inverse relationship between transfer size and fees, benefiting larger transactions ("economies of scale").
+- Blockchain's Advantage: Blockchain does not differentiate based on transaction size, enabling low-cost transactions and expanding access to a wider demographic.
+- Prevalence of Informal Systems: Many still rely on informal remittance systems like "hawala" due to their affordability and speed, though they are illegal and difficult to quantify (estimated at US$100–200 billion).
+- Potential Benefits of Formalizing Transfers: Integrating even a portion of these informal transfers into the formal economy could significantly benefit both banks and citizens.
+- Cost Savings with Blockchain: Ripple suggests global payment costs could reduce by 42–60% using blockchain. For India, with a remittance market of US$62.7 billion (2016 data), this could translate to an annual - saving of around US$80 million for banks.
+- Boost to the Banking Sector: Reduced costs and increased volume from previously priced-out transfers could provide a much-needed boost to India's struggling banking sector.
 2.
 3.
