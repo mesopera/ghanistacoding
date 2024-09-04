@@ -7,5 +7,9 @@
 - Potential Benefits of Formalizing Transfers: Integrating even a portion of these informal transfers into the formal economy could significantly benefit both banks and citizens.
 - Cost Savings with Blockchain: Ripple suggests global payment costs could reduce by 42–60% using blockchain. For India, with a remittance market of US$62.7 billion (2016 data), this could translate to an annual - saving of around US$80 million for banks.
 - Boost to the Banking Sector: Reduced costs and increased volume from previously priced-out transfers could provide a much-needed boost to India's struggling banking sector.
-2.
+
+
+2. we using rust cuz the way we are storing blockchain uses a method : memory mapping and as rust provide extensive features to provide memory security using rust made the most amount of sense for our project 
+
+
 3.
